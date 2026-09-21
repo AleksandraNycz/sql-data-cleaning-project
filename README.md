@@ -9,3 +9,4 @@ The project focuses on identifying and correcting common data quality issues usi
 This project was based on Alex The Analyst's SQL Data Cleaning project. 
 I followed the tutorial while writing and adapting the queries myself and used the project 
 to practice SQL data cleaning techniques.
+'layoffs.csv' is raw data I downloaded from Alex's GitHub
